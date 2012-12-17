@@ -1,6 +1,6 @@
 Server
 ======
-Author: Anju Dubey
+Author: Anju
 
 depoly application on Grails 2.1.0 
 grails run-app
